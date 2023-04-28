@@ -1,4 +1,4 @@
-# Explore Challenge
+# Explorer Challenge
 
   
 O site de móveis customizados foi criado com HTML e CSS para fornecer uma experiência de usuário visualmente atraente e fácil de usar.
