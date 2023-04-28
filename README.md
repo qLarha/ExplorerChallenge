@@ -12,3 +12,4 @@ O site de móveis customizados foi criado com HTML e CSS para fornecer uma exper
 
 
 ### Deploy
+Acesso: https://qlarha.github.io/ExplorerChallenge/
